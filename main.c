@@ -3,5 +3,5 @@
 //
 int main(){
     TestingImport2new('GoniTest.c');
-    //very nice yam yamy
+    //very nice yam yamx
 }
